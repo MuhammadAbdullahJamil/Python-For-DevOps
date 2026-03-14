@@ -1,0 +1,27 @@
+INTRODUCTION
+
+Question:1    Why we use PYTHON?
+Answer:       
+ To perform complex tasks, 
+ Interacting with APIs, 
+ performing data mnupulation.
+ Offers richer modules for handlinng complex scennarios like jSON processig   
+
+Question:2   Difference between SHELL SCRIPTING and PYTHON.   
+Answer:
+ SHELL SCRIPTING:-
+ Shell scripting  is primarly for interacting with linux systems, 
+ managing files and running system commands in order. 
+
+ PYTHON:-
+ Python is better suited for complex logic, cross-platform 
+ functionality and working with external APIs. 
+
+Question:3   UseCase of PYTHON in DevOps.
+Answer:
+ Interacting with Github API to list issues, 
+ fetch author names, and automate tasks that would take too long manually. 
+ Managing AWS Lambda functions to interact with other AWS resources like S3 buckets. 
+
+
+ 
